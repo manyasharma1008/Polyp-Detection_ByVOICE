@@ -1,13 +1,34 @@
 # Polyp-Detection_ByVOICE
 <h3>Introduction</h3>
-Polyps are abnormal tissue growths that can occur in the colon and rectum. Detecting them during colonoscopy examinations is essential, as polyps can lead to complications if left untreated. Manual detection can be challenging due to variations in size, shape, and appearance.
 
-This project develops an automated polyp detection system using both machine learning (ML) and deep learning (DL) techniques. It leverages time-frequency, acoustic, and spectrogram-based features for traditional ML models such as Support Vector Machine (SVM) and Random Forest (RF), while also employing Convolutional Neural Networks (CNNs) for direct image-based detection. The project provides a comparative evaluation of both approaches.
+Automated Polyp Detection
+<br></br>
+Polyps are abnormal tissue growths that can occur in the colon and rectum. Detecting them during colonoscopy examinations is essential, as polyps can lead to complications if left untreated. Manual detection is challenging due to variations in size, shape, and appearance.
+<br></br>
+This project presents an automated polyp detection system that integrates both Machine Learning (ML) and Deep Learning (DL) approaches. The system extracts diverse feature sets and provides a comparative evaluation of traditional ML classifiers and modern DL architectures.
+<br></br>
+This work was carried out as part of a summer internship under the guidance of professors from Birla Institute of Technology (BIT) Mesra, Ranchi.
 
 <h3>Features</h3>
+<br></br>
+
 Automated detection of polyps in colonoscopy images
-Feature extraction: time-frequency, acoustic, and spectrogram features
-Machine Learning models: SVM, Random Forest
-Deep Learning model: CNN
-Evaluation metrics: Accuracy, Precision, Recall, F1-score, IoU/Dice
-Comparison between ML and DL methods
+<h5>Feature extraction using:</h5>
+Time–frequency features
+Acoustic features
+Spectrogram features
+Machine Learning models:
+Support Vector Machine (SVM)
+Random Forest (RF)
+<br></br>
+<h5>Deep Learning model:</h5>
+Convolutional Neural Networks (CNNs)
+<br></br>
+<h5>Evaluation metrics:</h5>
+Accuracy
+Precision
+Recall
+F1-score
+IoU / Dice coefficient
+Comparison of ML and DL approaches for detection performance
+
