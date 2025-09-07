@@ -7,11 +7,10 @@ Polyps are abnormal tissue growths that can occur in the colon and rectum. Detec
 <br></br>
 This project presents an automated polyp detection system that integrates both Machine Learning (ML) and Deep Learning (DL) approaches. The system extracts diverse feature sets and provides a comparative evaluation of traditional ML classifiers and modern DL architectures.
 <br></br>
-This work was carried out as part of a summer internship under the guidance of professors from Birla Institute of Technology (BIT) Mesra, Ranchi.
+This work was carried out as part of a summer internship under the guidance of professors from <h5>Birla Institute of Technology (BIT) Mesra, Ranchi.</h5>
 
 <h3>Features</h3>
 <br></br>
-
 Automated detection of polyps in colonoscopy images
 <h5>Feature extraction using:</h5>
 Time–frequency features
