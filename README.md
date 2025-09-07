@@ -10,7 +10,6 @@ This project presents an automated polyp detection system that integrates both M
 This work was carried out as part of a summer internship under the guidance of professors from <h5>Birla Institute of Technology (BIT) Mesra, Ranchi.</h5>
 
 <h3>Features</h3>
-<br></br>
 Automated detection of polyps in colonoscopy images
 <h5>Feature extraction using:</h5>
 Time–frequency features
@@ -19,10 +18,8 @@ Spectrogram features
 Machine Learning models:
 Support Vector Machine (SVM)
 Random Forest (RF)
-<br></br>
 <h5>Deep Learning model:</h5>
 Convolutional Neural Networks (CNNs)
-<br></br>
 <h5>Evaluation metrics:</h5>
 Accuracy
 Precision
