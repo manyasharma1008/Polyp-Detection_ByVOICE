@@ -12,19 +12,19 @@ This work was carried out as part of a summer internship under the guidance of p
 <h3>Features</h3>
 Automated detection of polyps in colonoscopy images
 <h5>Feature extraction using:</h5>
-Time–frequency features
-Acoustic features
-Spectrogram features
+*Time–frequency features
+*Acoustic features
+*Spectrogram features
 Machine Learning models:
-Support Vector Machine (SVM)
-Random Forest (RF)
+*Support Vector Machine (SVM)
+*Random Forest (RF)
 <h5>Deep Learning model:</h5>
-Convolutional Neural Networks (CNNs)
+*Convolutional Neural Networks (CNNs)
 <h5>Evaluation metrics:</h5>
-Accuracy
-Precision
-Recall
-F1-score
-IoU / Dice coefficient
-Comparison of ML and DL approaches for detection performance
+*Accuracy
+*Precision
+*Recall
+*F1-score
+*IoU / Dice coefficient
+*Comparison of ML and DL approaches for detection performance
 
